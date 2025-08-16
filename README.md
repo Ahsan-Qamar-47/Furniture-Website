@@ -1,4 +1,3 @@
-```
 # 🪑 FurniCraft - Furniture Website
 
 A modern, responsive furniture website designed with **HTML** and **CSS**.  
@@ -30,14 +29,12 @@ It showcases premium handcrafted furniture with interactive sections, product ca
 ---
 
 ## 📂 Project Structure
-```
 
-.
+
 ├── index.html   # Main HTML file
 ├── style.css    # Stylesheet
 ├── Images/      # Asset images
 
-````
 
 ---
 
@@ -45,6 +42,5 @@ It showcases premium handcrafted furniture with interactive sections, product ca
 
 This project is open-source and available under the MIT License.
 
-```
 
 ---
