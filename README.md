@@ -30,11 +30,11 @@ It showcases premium handcrafted furniture with interactive sections, product ca
 
 ## 📂 Project Structure
 
-
+```
 ├── index.html   # Main HTML file
 ├── style.css    # Stylesheet
 ├── Images/      # Asset images
-
+```
 
 ---
 
